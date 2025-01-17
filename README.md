@@ -1,4 +1,5 @@
-# RE Project: Refactoring UI for Government Platform
+# Open Contribution
+# Refactoring UI for Government Platform
 
 ## Overview
 
